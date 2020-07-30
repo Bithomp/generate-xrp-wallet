@@ -1,10 +1,11 @@
+The project "Generate XRP wallet" is no longer hosted on bithomp.com
+--------------------------------------------------------------------------------------------------------
+You can still download and use it offline on a separate secure offline computer/phone.
+You can also generate XRP wallets using hardware wallets https://bithomp.com/wallets/hardware
+
 # Generate XRP wallet
 
 A tool to generate an XRP wallet (address + secret)
-
-## Online version
-
-https://bithomp.github.io/generate-xrp-wallet
 
 ## Standalone version
 
